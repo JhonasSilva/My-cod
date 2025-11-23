@@ -10,6 +10,7 @@ A análise foi desenvolvida em um notebook Google Colab e organizada neste repos
 # Arquivos do repositório
 
 - **Analise_vendas.ipynb** — Notebook principal contendo todo o código, análises, gráficos e conclusões.
+- **shopping_behavior_updated.csv** — Base de dados csv usado no projeto, site da kaggle
 
 ---
 
