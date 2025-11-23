@@ -115,3 +115,7 @@ Não foi identificada relação significativa entre idade e valor gasto.
 
 Este trabalho foi desenvolvido como estudo de análise de dados, com foco em prática real, documentação e interpretação de resultados.  
 Serve como um dos projetos iniciais do portfólio do autor.
+
+## Contato:
+Linkedin: www.linkedin.com/in/jhonas-silvac
+Email: jhonassilvac@gamil.com
