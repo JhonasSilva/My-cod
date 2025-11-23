@@ -117,5 +117,5 @@ Este trabalho foi desenvolvido como estudo de análise de dados, com foco em pr�
 Serve como um dos projetos iniciais do portfólio do autor.
 
 ## Contato:
-Linkedin: www.linkedin.com/in/jhonas-silvac
-Email: jhonassilvac@gamil.com
+- Linkedin: www.linkedin.com/in/jhonas-silvac
+- Email: jhonassilvac@gmail.com
